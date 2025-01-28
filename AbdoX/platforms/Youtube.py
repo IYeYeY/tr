@@ -20,9 +20,9 @@ from youtubesearchpython.__future__ import VideosSearch
 
 
 
-from AviaxMusic.utils.database import is_on_off
+from AbdoX.utils.database import is_on_off
 
-from AviaxMusic.utils.formatters import time_to_seconds
+from AbdoX.utils.formatters import time_to_seconds
 
 
 
